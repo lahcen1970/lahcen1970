@@ -1,0 +1,43 @@
+    "Aiming": {
+        "Accuracy": {
+            "bUnlocked": false,
+            "Toggle": false
+        },
+        "Aimbot": {
+            "Fov": {
+                "Color": {
+                    "0": 1.0,
+                    "1": 1.0,
+                    "2": 1.0,
+                    "3": 0.09803921729326248
+                },
+                "Slider": 358,
+                "Toggle": true
+            },
+            "Hard Aimbot": {
+                "Toggle": false
+            },
+            "Key": {
+                "First": 1,
+                "Second": "L-BUTTON"
+            },
+            "Magic Bullet": {
+                "Toggle": false
+            },
+            "bUnlocked": true,
+            "Toggle": false
+        },
+        "AutoShot": {
+            "Hardware": {
+                "Toggle": false
+            },
+            "bUnlocked": false,
+            "Toggle": false
+        }
+    },
+    "Game": {
+        "ID": 4688,
+        "Toggle": false
+    }
+}
+
